@@ -1,2 +1,6 @@
 this notebook demostrates how to use differnt OpenAI GPT-3 modules like Ada, DaVinci, Babbage and Curie 
 to create a cover letter generator that is deplyed using streamlit
+
+You will need an API Key from OpenAI to run this code
+and when running this code in VSCODE you can run it using this command :
+streamlit run /path of your file/
