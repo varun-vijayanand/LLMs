@@ -1,0 +1,2 @@
+this notebook demostrates how to use differnt OpenAI GPT-3 modules like Ada, DaVinci, Babbage and Curie 
+to create a cover letter generator that is deplyed using streamlit
